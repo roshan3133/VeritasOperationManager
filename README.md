@@ -14,3 +14,15 @@ optional arguments:
                         Please Provilde IP address of Veritas Operation
                         Manager server.
 ```
+Parameter
+---------
+Parameter need to changed.
+1. Portnumber
+2. Domain
+
+Example
+-------
+
+1.  python vom_api.py  -username <username> -passwod <password> -vom_server_ip <VOM server IP>
+
+Output Will be stored on final_out.txt
